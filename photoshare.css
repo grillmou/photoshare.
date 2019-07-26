@@ -1,0 +1,102 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    margin: 0px;
+}
+/* header img{
+    width: 300px;
+    height: 100px;
+} */
+
+
+.main img{
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    left:0;
+
+}
+
+.main h1{
+    position: absolute;
+    font-size:100px;
+    font-family:"ヒラギノ角ゴ ProN";
+    color: #ffffff;
+    opacity: 0.8;
+    top:10%;
+    left:30%;
+}
+
+.main a {
+    position: absolute;
+    top:40%;
+    left:45%;
+    width: 10%;
+}
+.top{
+    width: 800px;
+    height:480px;
+    margin:0 auto;
+    margin-top:100px; 
+    
+}
+.top img{
+  width:25%;
+  float:left;
+}
+
+.top h1{
+    font-size:50px;
+    margin:0px;
+    float:right;
+    padding-left:100px;
+}
+
+.top p{
+    float:right;
+    font-size:20px;
+}
+
+.top2{
+    width: 800px;
+    height:480px;
+    margin:0 auto;
+    margin-top:100px;
+}
+
+.top2 img{
+    width:25%;
+    float: right;;
+}
+
+
+.top2 h1{
+    font-size:50px;
+    margin:0px;
+    float:left;
+    
+}
+
+.top2 p{
+    width: 300px;
+    float:left;
+    font-size:20px;
+}
+
+.top3{
+    width: 800px;
+    height:480px;
+    margin:0 auto;
+    margin-top:100px;  
+}
+
+.top3 img{
+    width:60%;
+    margin-left:20%;
+}
+
+.top3 h1{
+    font-size:50px;
+    text-align: center;
+    margin-bottom:60px;
+}
